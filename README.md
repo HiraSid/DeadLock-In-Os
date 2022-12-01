@@ -1,6 +1,9 @@
 # DeadLock-In-Os
-Deadlock in Operating System Ongoing
-Prof. Arup Chattopadhyay, Department of Mathematics, IIT Guwahati GitHub
+Deadlock in Operating System 
+
+
+Prof. Arup Chattopadhyay, Department of Mathematics, IIT Guwahati 
+
 – Presentation on Deadlock situations in OS and related Coffman conditions for the occurrence of Deadlock.
 – Analysed and addressed the detection of Deadlock using Resource Scheduler.
 – Executed a detailed analysis on the Deadlock Prevention, Ignorance and Avoidance.
